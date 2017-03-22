@@ -139,7 +139,7 @@ This is a test mail
 .
 ```
 
-<a name=".2"></a>
+<a name="2"></a>
 # 2.Install on Ubuntu Server 16.04
 ```
 sudo apt-get install curl
