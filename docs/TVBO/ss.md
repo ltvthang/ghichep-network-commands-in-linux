@@ -83,6 +83,7 @@
 
 + Làm thế nào để lọc các TCP sockets sử dụng các trạng thái???
 	> `ss state tcp-state [expression]`
+	
 	Các giá trị tcp-state có thể là: established, closed, listen, connected, synchronized, ...
 
 Trong những hình ảnh trên, mình xin phép được ẩn đi địa chỉ ip vì một số lí do khác quan.
