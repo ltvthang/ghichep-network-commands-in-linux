@@ -1,9 +1,9 @@
 # Báo cáo: Hướng dẫn sử dụng netstat command
 
 ## Mục lục
-- 1. Giới thiệu (#about)
-- 2. Chi tiết câu lệnh (#setup)
-- 3. Các ví dụ (#instr)
+- 1. [Giới thiệu](#about)
+- 2. [Chi tiết câu lệnh](#setup)
+- 3. [Các ví dụ](#instr)
 
 ## Giới thiệu
 <a name="about"></a>
