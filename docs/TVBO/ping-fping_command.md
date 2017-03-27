@@ -97,42 +97,42 @@
 + <a name="fping-example">Ví dụ về fping command</a>
 
 	- `fping google.com google.com.vn`
-		> ![fping-](../../images/fping/fping.png)
+		> ![fping-](../../images/TVBO/fping/fping.png)
 
 	- `fping 192.168.0.1`
-		> ![fping-](../../images/fping/fping192.png)
+		> ![fping-](../../images/TVBO/fping/fping192.png)
 
 	- `fping -S 192.168.216.130 google.com.vn`
-		> ![fping-](../../images/fping/fping-S2.png)
+		> ![fping-](../../images/TVBO/fping/fping-S2.png)
 
 	- `fping -i 2000 google.com.vn`
-		> ![fping-](../../images/fping/fping-i.png)
+		> ![fping-](../../images/TVBO/fping/fping-i.png)
 
 	- `fping -b 200 google.com`
-		> ![fping-](../../images/fping/fping-bn.png)
+		> ![fping-](../../images/TVBO/fping/fping-bn.png)
 
 	- `fping -q google.com`
-		> ![fping-](../../images/fping/fping-q.png)
+		> ![fping-](../../images/TVBO/fping/fping-q.png)
 
 	- `fping -DlQ 3 google.com.vn`
-		> ![fping-](../../images/fping/fping-lQ.png)
+		> ![fping-](../../images/TVBO/fping/fping-lQ.png)
 
 	- `fping -c 20 -Q 2 192.168.216.1`
-		> ![fping-](../../images/fping/fping-c.png)
+		> ![fping-](../../images/TVBO/fping/fping-c.png)
 
 	- `fping -A google.com.vn`
-		> ![fping-](../../images/fping/fping-A.png)
+		> ![fping-](../../images/TVBO/fping/fping-A.png)
 
 	- `fping -d 8.8.8.8`
-		> ![fping-](../../images/fping/fping-d.png)
+		> ![fping-](../../images/TVBO/fping/fping-d.png)
 
 	- `fping -ed 8.8.8.8 -c 10`
-		> ![fping-](../../images/fping/fping-e.png)
+		> ![fping-](../../images/TVBO/fping/fping-e.png)
 
 	- `fping -C 2 google.com google.com.vn`
-		> ![fping-](../../images/fping/fping-C2.png)
+		> ![fping-](../../images/TVBO/fping/fping-C2.png)
 
 	- `fping -s google.com.vn `
-		> ![fping-](../../images/fping/fping-s.png)
+		> ![fping-](../../images/TVBO/fping/fping-s.png)
 
 Phía trên là nhưng câu lệnh cơ bản rất là hữu ích cho việc chuẩn đoán mạng của fping cung cấp! Chúc các bạn học tập vui vẻ!
