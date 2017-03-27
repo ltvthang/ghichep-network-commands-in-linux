@@ -7,7 +7,7 @@
 - [Cú pháp câu lệnh](#cuphap)
 	+ [Các args trong câu lệnh](#options)
 - Một số ví dụ
-	+ [ip add](#ipadd)
+	+ [ip add](#ipaddr)
 	+ [ip route](#iproute)
 	+ [iplink](#iplink)
 
