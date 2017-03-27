@@ -74,7 +74,7 @@
 	+ Phía dưới là hình ảnh cấu hình của card mạng trong máy cá nhân của mình gồm như sau:
 		> ![ifconfig](../../images/TVBO/ip/ifconfig.png)
 
-	+ Câu lệnh về `ip addr`:
+	+ <a name="ipaddr">Câu lệnh về `ip addr`</a>
 		> Cú pháp: `ip addr add| change| del| flush| help| replace| show`
 
 		Để biết chi tiết về câu lệnh, bạn hãy dùng:
@@ -87,7 +87,7 @@
 		Kết quả là:
 		![ipaddr](../../images/TVBO/ip/ipaddr.png)
 
-	+ Câu lệnh về `ip link`:
+	+ <a name="iplink">Câu lệnh về `ip link`:</a>
 		> Cú pháp: `ip link add| delete| help| set| show`
 
 		Để biết chi tiết về câu lệnh này, bạn hãy sử dụng:
@@ -100,7 +100,7 @@
 		![iplink](../../images/TVBO/ip/iplink.png)
 
 
-	+ Câu lệnh về `ip route`:
+	+ <a name="iproute">Câu lệnh về `ip route`:</a>
 		> Cú pháp: `ip route add| append| change| del| flush| get| help| list| monitor| replace`
 
 		Để biết chi tiết về câu lệnh này, bạn hãy sử dụng:
