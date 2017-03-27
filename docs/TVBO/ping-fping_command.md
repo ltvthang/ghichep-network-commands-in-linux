@@ -94,7 +94,7 @@
 
 ## Các ví dụ
 
-+ <a name="fping-example">Ví dụ về fping command</a>
++ <a name="fping-examples">Ví dụ về fping command</a>
 
 	- `fping google.com google.com.vn`
 		> ![fping-](../../images/TVBO/fping/fping.png)
