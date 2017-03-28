@@ -2,10 +2,9 @@
 
 # Mục lục
 
-- 1. [ss command là gì](#about)
-- 2. Cách sử dụng ss command
-	+ 2.1 [Chi tiết các options trong ss command](#options)
-	+ 2.2 [Các ví dụ](#example)
+- [ss command là gì](#about)
+- [Cách sử dụng ss command](#options)
+- [Các ví dụ](#example)
 
 
 
