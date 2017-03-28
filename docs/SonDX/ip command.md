@@ -201,6 +201,8 @@ gateway 172.16.69.1
 up ip route add 10.10.10.0/24 via 172.16.69.1 dev ens33
 ```
 
+> `up ip route add 10.10.10.0/24 via 172.16.69.1 dev ens33` : Những packet có “Destination IP address”  thuộc network address `10.10.10.0/24` thì phải đi qua 172.16.69.1 thông qua NIC ens33 .  
+
 - Add defualt gateway
 ```
 ip route add default via 172.16.69.1
