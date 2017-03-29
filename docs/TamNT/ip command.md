@@ -103,15 +103,15 @@ Hiểu rõ các thành phần trong OPTIONS và TYPE tại [manpage ip link](htt
 
   \- Một số ví dụ:
 
-      -	Show ra các thông tin các thiết bị:
+Show ra các thông tin các thiết bị:
 
       `ip link show`
 
-      -	Show ra các thiết bị đang up:
+Show ra các thiết bị đang up:
 
       `ip link show up`
 
-      -	Show ra thông tin các thiết bị trong nhóm 1:
+Show ra thông tin các thiết bị trong nhóm 1:
 
       `ip link show group default`
 
@@ -283,6 +283,8 @@ ip route { add | del | change | append | replace } ROUTE
 
 Tham khảo thêm các thành phần trong câu lệnh `ip route` tại [manpage ip-route](http://manpages.ubuntu.com/manpages/xenial/en/man8/ip-route.8.html)
 
+Để sử dụng thuần thục `ip route`, nên tham khảo trước về [IP routing in Linux](http://linux-ip.net/html/ch-routing.html)
+
 <a name = "4.3"></a>
 ## 4.3. Một số ví dụ phổ biển với `ip route`
 
@@ -307,7 +309,7 @@ Tham khảo thêm các thành phần trong câu lệnh `ip route` tại [manpage
 
 <img src = "http://imgur.com/X1wfX6i.jpg">
 
-  \- Add thêm một default gateway cho máy: `ip route add default via *ADDRESS*`
+  \- Add thêm một default gateway cho máy: `ip route add default via ADDRESS`
 
 <img src = "http://imgur.com/j8dG5oZ.jpg">
 
