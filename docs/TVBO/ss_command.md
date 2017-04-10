@@ -2,10 +2,9 @@
 
 # Mục lục
 
-- 1. [ss command là gì](#about)
-- 2. Cách sử dụng ss command
-	+ 2.1 [Chi tiết các options trong ss command](#options)
-	+ 2.2 [Các ví dụ](#example)
+- [ss command là gì](#about)
+- [Cách sử dụng ss command](#options)
+- [Các ví dụ](#example)
 
 
 
@@ -86,4 +85,4 @@
 	
 	Các giá trị tcp-state có thể là: established, closed, listen, connected, synchronized, ...
 
-Trong những hình ảnh trên, mình xin phép được ẩn đi địa chỉ ip vì một số lí do khác quan.
+Trong những hình ảnh trên, mình xin phép được ẩn đi địa chỉ ip vì một số lí do khách quan.
